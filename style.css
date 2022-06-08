@@ -84,6 +84,7 @@ footer {
 }
 .username {
     text-decoration: underline;
+    font-weight: 700;
 }
 @media only screen and (max-width: 1100px) {
     .left_container {
